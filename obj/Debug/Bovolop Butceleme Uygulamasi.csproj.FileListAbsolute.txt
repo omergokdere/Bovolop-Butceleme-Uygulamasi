@@ -1,0 +1,15 @@
+C:\Users\90532\source\repos\Bovolop Butceleme Uygulamasi\bin\Debug\Bovolop Butceleme Uygulamasi.exe.config
+C:\Users\90532\source\repos\Bovolop Butceleme Uygulamasi\bin\Debug\Bovolop Butceleme Uygulamasi.exe
+C:\Users\90532\source\repos\Bovolop Butceleme Uygulamasi\bin\Debug\Bovolop Butceleme Uygulamasi.pdb
+C:\Users\90532\source\repos\Bovolop Butceleme Uygulamasi\obj\Debug\Bovolop_Butceleme_Uygulamasi.Form1.resources
+C:\Users\90532\source\repos\Bovolop Butceleme Uygulamasi\obj\Debug\Bovolop_Butceleme_Uygulamasi.Properties.Resources.resources
+C:\Users\90532\source\repos\Bovolop Butceleme Uygulamasi\obj\Debug\Bovolop Butceleme Uygulamasi.csproj.GenerateResource.cache
+C:\Users\90532\source\repos\Bovolop Butceleme Uygulamasi\obj\Debug\Bovolop Butceleme Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\90532\source\repos\Bovolop Butceleme Uygulamasi\obj\Debug\Bovolop Butceleme Uygulamasi.exe
+C:\Users\90532\source\repos\Bovolop Butceleme Uygulamasi\obj\Debug\Bovolop Butceleme Uygulamasi.pdb
+C:\Users\90532\source\repos\Bovolop Butceleme Uygulamasi\bin\Debug\System.Buffers.dll
+C:\Users\90532\source\repos\Bovolop Butceleme Uygulamasi\bin\Debug\System.Memory.dll
+C:\Users\90532\source\repos\Bovolop Butceleme Uygulamasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\90532\source\repos\Bovolop Butceleme Uygulamasi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\90532\source\repos\Bovolop Butceleme Uygulamasi\obj\Debug\Bovolop Butceleme Uygulamasi.exe.config
+C:\Users\90532\source\repos\Bovolop Butceleme Uygulamasi\obj\Debug\Bovolop Butceleme Uygulamasi.csproj.CopyComplete
